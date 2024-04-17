@@ -18,7 +18,7 @@ Simple Text Editor is a lightweight and user-friendly text editor for Windows, m
 
 To install the Simple Text Editor, follow these steps:
 
-1. Download the installation package from the [releases page](link-to-releases).
+1. Download the installation package from the [releases page](https://github.com/KiiingDom/comp3375-groupproject-simpletexteditor).
 2. Run the installer executable.
 3. Follow the on-screen instructions to complete the installation process.
 4. Once installed, launch the application from the desktop shortcut or start menu.
@@ -46,7 +46,7 @@ We value your feedback! If you have any suggestions for improving the Simple Tex
 
 ## Contributing
 
-Contributions to the Simple Text Editor project are welcome! If you would like to contribute code, report bugs, or suggest new features, please visit our [GitHub repository](link-to-repo).
+Contributions to the Simple Text Editor project are welcome! If you would like to contribute code, report bugs, or suggest new features, please visit our [GitHub repository](https://github.com/KiiingDom/comp3375-groupproject-simpletexteditor).
 
 ## License
 
