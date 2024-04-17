@@ -6,7 +6,6 @@ Simple Text Editor is a lightweight and user-friendly text editor for Windows, m
 
 ### Supported Operating Systems:
 - Windows 7 and above
-- macOS 10.10 and above
 - Linux distributions with GTK 2.24.0 or higher
 
 ### Hardware Requirements:
