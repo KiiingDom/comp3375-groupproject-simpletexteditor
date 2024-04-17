@@ -47,6 +47,10 @@ We value your feedback! If you have any suggestions for improving the Simple Tex
 
 Contributions to the Simple Text Editor project are welcome! If you would like to contribute code, report bugs, or suggest new features, please visit our [GitHub repository](https://github.com/KiiingDom/comp3375-groupproject-simpletexteditor).
 
+### Contributors
+
+Please note, that a majority of this work was done via VSCode's liveshare feature and thus it may not accurately represent contributors' works. 
+
 ## License
 
 The Simple Text Editor is released under the MIT License. You are free to use, modify, and distribute the software as per the terms of the license.
@@ -54,3 +58,8 @@ The Simple Text Editor is released under the MIT License. You are free to use, m
 ---
 
 Please replace the placeholders (`link-to-releases` and `link-to-repo`) with the actual links to the releases page and GitHub repository respectively.
+
+---
+##
+
+Thank you
